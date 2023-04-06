@@ -2,7 +2,9 @@
 
 1. <https://www.youtube.com/watch?v=9HUlUnM3UG8>
 
-2. ![캡쳐](screenshot.gif)
+2. <https://hyundai-sangho.github.io/drag_and_drop_sortable_list/>
+
+3. ![캡쳐](screenshot.gif)
 
 ## 추가 기능
 
